@@ -189,7 +189,6 @@ This section must be preceded by a [Functions](#functions-section) section.
 #### Export entry
 | Field | Type | Description |
 | ----- |  ----- | ----- |
-| sig_index | `uint16` | signature index of the export |
 | func_index | `uint16` | index into the function table |
 | func_name | `uint32` | offset from the start of the module of the string representing the export name |
 
